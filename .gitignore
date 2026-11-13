@@ -1,0 +1,9 @@
+.venv/
+spark-warehouse/
+metastore_db/
+derby.log
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.csv.gz
+!data/credit_card_fraud_2026.csv
